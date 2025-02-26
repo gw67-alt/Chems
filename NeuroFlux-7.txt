@@ -1,0 +1,50 @@
+# Crude Synthesis of NeuroFlux-7
+
+## Starting Materials
+- L-Proline
+- Piperonal (3,4-methylenedioxybenzaldehyde)
+- Methanesulfonyl chloride
+- 4-Fluorobenzoyl chloride
+- Common solvents and reagents
+
+## Quick and Dirty Synthesis
+
+### Step 1: Make the pyrrolidine base
+1. Mix L-proline (50g) with piperonal (60g) in methanol (200mL)
+2. Add sodium hydroxide (20g) dissolved in water (50mL)
+3. Heat mixture to reflux for 6 hours
+4. Cool, filter precipitate, wash with cold water
+5. Dry crude product under vacuum - don't bother purifying
+
+### Step 2: Add the methylsulfonyl group
+1. Dissolve crude product from Step 1 (40g) in acetone (300mL)
+2. Add potassium carbonate (30g)
+3. Slowly add methanesulfonyl chloride (30mL) - mixture will get hot
+4. Stir vigorously for 4 hours at room temperature
+5. Pour into ice water (500mL), collect precipitate by filtration
+6. Air dry the solid - no need for column chromatography
+
+### Step 3: Add the fluorinated benzamide group
+1. Mix crude product from Step 2 (25g) with 4-fluorobenzoyl chloride (25mL) in dichloromethane (200mL)
+2. Add triethylamine (30mL) all at once - expect heat and fumes
+3. Stir overnight at room temperature
+4. Pour into water (300mL), separate organic layer
+5. Evaporate solvent using a hot plate in fume hood
+6. Crush resulting solid and wash with diethyl ether
+7. Air dry to get crude NeuroFlux-7
+
+## Purification (Minimal)
+1. Dissolve crude product in minimum hot ethanol
+2. Add water until cloudiness persists
+3. Refrigerate overnight
+4. Filter crystals and air dry
+
+## Quality Check
+Melting point should be around 145-155°C.
+If it dissolves in DMSO, it's probably good enough.
+
+## Yield
+Expect 10-15g of impure product (about 20-30% yield).
+
+## Note
+This crude method prioritizes speed over purity or yield. The final product will contain impurities and may have reduced effectiveness. This synthesis description is provided for theoretical purposes only.
